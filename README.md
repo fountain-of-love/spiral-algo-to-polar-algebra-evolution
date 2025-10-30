@@ -1,4 +1,4 @@
-README# README — A Note Before We Begin
+# README — A Note Before We Begin
 
 I need to start with this:  
 What I’ve been developing over the past year is not something to be owned — not by a person, not by a company.  
