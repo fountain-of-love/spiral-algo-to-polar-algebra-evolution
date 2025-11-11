@@ -8,12 +8,12 @@ Welcome to the **GAO Spiral** project documentation hub. This index links all ke
 
 | Document | Description |
 |-----------|-------------|
-| [**gao_spiral_overview_v_7.md**](GAO_Spiral_Overview_v7) | High-level summary of the GAO Spiral project — including 5W2H and DQM frameworks, Blueprint mapping, version evolution, and current v7 status. |
-| [**gao_spiral_quick_start_onboarding.md**](GAO_Spiral_QuickStart_Onboarding) | Step-by-step onboarding guide: setup instructions, running scenarios, metric interpretation, and contributor workflow. |
-| [**gao_spiral_troubleshooting_faq.md**](GAO_Spiral_Troubleshooting_FAQ) | Common setup, runtime, and metric issues with quick fixes and a diagnostic checklist. |
-| [**gao_spiral_known_limitations_workarounds.md**](GAO_Spiral_Known_Limitations_Workarounds) | List of current limitations (v7) with causes, workarounds, and planned resolutions for v8. |
-| [**gao_spiral_evolution_explained.md**](Gao_Spiral_Evolution_Explained) | Explanation of how the spiral evolution works and is applied on the GAO algorithm. |
-| [**gao_diagnostics_basics.md**](Gao_Diagnostics_Basics) | Explanation of how the diganostics work and how they are applied on the GAO algorithm as they introduce quality metrics next to speed and distance. |
+| [**gao_spiral_overview_v_7.md**](gao_spiral_overview_v_7.md) | High-level summary of the GAO Spiral project — including 5W2H and DQM frameworks, Blueprint mapping, version evolution, and current v7 status. |
+| [**gao_spiral_quick_start_onboarding.md**](gao_spiral_quick_start_onboarding.md) | Step-by-step onboarding guide: setup instructions, running scenarios, metric interpretation, and contributor workflow. |
+| [**gao_spiral_troubleshooting_faq.md**](gao_spiral_troubleshooting_faq.md) | Common setup, runtime, and metric issues with quick fixes and a diagnostic checklist. |
+| [**gao_spiral_known_limitations_workarounds.md**](gao_spiral_known_limitations_workarounds.md) | List of current limitations (v7) with causes, workarounds, and planned resolutions for v8. |
+| [**gao_spiral_evolution_explained.md**](gao_spiral_evolution_explained.md) | Explanation of how the spiral evolution works and is applied on the GAO algorithm. |
+| [**gao_diagnostics_basics.md**](gao_diagnostics_basics.md) | Explanation of how the diganostics work and how they are applied on the GAO algorithm as they introduce quality metrics next to speed and distance. |
 
 ---
 
